@@ -27,3 +27,6 @@ img {
     overscroll-behavior-inline: contain;
 }
 
+a{
+    opacity: 70%;
+}
